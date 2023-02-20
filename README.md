@@ -28,3 +28,5 @@ of code
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![Watcha lookin at?](https://album.mediaset.es/eimg/2017/09/23/2ePRXiD9Tz79UO30UXQor4.jpg?w=1200)
+
+A little bit about me: all my social nw's are under the nickname 'drefc'
